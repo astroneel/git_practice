@@ -1,1 +1,1 @@
-Yes
+New File > Add it to staging area > Commit to git > Push to GitHub
